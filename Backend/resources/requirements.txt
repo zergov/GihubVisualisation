@@ -1,5 +1,6 @@
 fastapi[standard]
 typing
 tinydb
+snakeviz==2.2.0
 
 resources/PyDriller_Cedric_Version-2.6-py3-none-any.whl
